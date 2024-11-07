@@ -7,3 +7,16 @@ The project consists of:
 1. A Python script to preprocess data, train the model, evaluate it, and generate predictions.
 2. Grid search to tune hyperparameters for optimal model performance.
 3. Visualizations and performance metrics for a comprehensive understanding of model accuracy.
+
+# Model Evaluation
+The model is evaluated on the validation set using various metrics:
+
+Accuracy: 0.8738095238095238
+ROC AUC: 0.8323719894758145
+Log Loss:  0.3005269025437739
+Classification Report:
+![image](https://github.com/user-attachments/assets/a8892397-5658-458d-84dd-da09d90504ad)
+
+Confusion Matrix:
+![image](https://github.com/user-attachments/assets/0c051720-4368-4cb1-b5ac-71a18a8b3831)
+
